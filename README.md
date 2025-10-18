@@ -38,7 +38,7 @@ Tooltips are designed to enhance user understanding without cluttering the visua
 ---
 
 ## 🧭 Conclusion
-This COVID-19 dashboard demonstrates the power of data storytelling through interactive visuals, robust DAX modeling, and executive-level design. By transforming raw case data into dynamic maps, KPI cards, and trend lines, the project delivers actionable insights across countries and metrics.
+- This COVID-19 dashboard demonstrates the power of data storytelling through interactive visuals, robust DAX modeling, and executive-level design. By transforming raw case data into dynamic maps, KPI cards, and trend lines, the project delivers actionable insights across countries and metrics.
 ---
 
 ## 📸 Dashboard Preview
